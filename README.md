@@ -1,0 +1,11 @@
+The link to your hosted app on Cyclic.sh
+https://odd-gold-leopard-ring.cyclic.app
+
+A copy of the configuration of your .env file
+CYCLIC_DB=odd-gold-leopard-ringCyclicDB
+AWS_REGION=eu-north-1
+AWS_ACCESS_KEY_ID=ASIATQFBRLF6MEMAPAOW
+AWS_SECRET_ACCESS_KEY=eDu0AIj0nBEv22ZIc6GJ4LHk//vRddxaaZm2+4b0
+AWS_SESSION_TOKEN=IQoJb3JpZ2luX2VjEKH//////////wEaCXVzLWVhc3QtMiJHMEUCIEJdT4OuC2GnTI7wfkvT9WwzWp1ImeloRWFGm9oKXDfzAiEAzYIYTvGqUWIr/6k8OO1ZLB5rPbBafBwmJdw+19IC2RQquAIIuv//////////ARABGgwyNDA4NTY5NDcwNjgiDK81jZlybG84oDpFeyqMAjEkLj1dcRZ3gfbajW0uTJGekNyP474rkjHwzAkeXa9zNhnYrbTnya41LNikKNym+xUOEGGg0EUgW0+ZRSlwJ8FfGV5w7hjgMzfYjFALrM2kv3/YnCXInmYobyCfZnB5YQ6JBBFAHm4rFOo9h34s6aNnpipikt+lkzaoW9rdRZfJYR+ma3XJeksm5I62AbyxR5JBeSpz321fUFakXHmDw8Pf4UkdQY++DaSNQXB0jiUX/nuJnU3hkD9c04M5LKB1Nvg8mzsm6dzTD6RgpO0YFeRFXM+ErF+3eQaj8ANicdR3CcPg+hvJ6eg0YrI93+MfI+mesYXlnog21NGiZUaZTvkYn4yuPfzt3g3H4PgwyfX3ogY6nQHLb1JUGCehUP//HMV0GjIMEp0R3dBG3k3kgsK2DBxJ1MV2l98pNWlH+WGakw5RbjfltI8+BwzdgzdB0WsaroR9ZtWZojDFAvxLX6e+DUnTA9fg7cwLUdvy4Rbu0QT+WWgsiGQ+LaOu8QJMapYj7FvartMzjdveRq84R3zJSI/yZBU/7Uka28pHFgB2DqgGk6U5sLIPUiNNSScDxcD2
+
+
